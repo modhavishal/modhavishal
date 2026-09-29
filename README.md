@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Vishal Modha 👋
 
-<!--
-**modhavishal/modhavishal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+React & TypeScript Developer from India with 2.5+ years of experience building fast web apps, dashboards and e-commerce websites.
 
-Here are some ideas to get you started:
+## What I do
+- Build React + TypeScript web apps and admin dashboards
+- Build e-commerce websites (React, PHP, MySQL)
+- Connect frontends to APIs with clean state management
+- Improve website speed and mobile experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+React.js, TypeScript, JavaScript, Redux, Zustand, TanStack Query, React Hook Form, Zod, Tailwind CSS, Bootstrap, PHP, MySQL, Git, Postman
+
+## Projects
+- Admin Dashboard (coming soon)
+- Mini Social Feed (coming soon)
+- E-commerce Storefront (coming soon)
+
+## Work experience
+Built the frontend of a live social media platform (rueblur.com) and a public e-commerce website (blue9.shop) as a React / Full Stack Developer.
+
+## Contact
+Please message me on Upwork.
