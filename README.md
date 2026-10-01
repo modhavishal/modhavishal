@@ -13,8 +13,7 @@ React.js, TypeScript, JavaScript, Redux, Zustand, TanStack Query, React Hook For
 
 ## Projects
 - [Pharmacy Admin Dashboard](https://admin-dashboard-ten-beta-34.vercel.app) - React, TypeScript, Tailwind CSS, Firebase auth, Zustand ([code](https://github.com/modhavishal/admin-dashboard))
-- Mini Social Feed - coming soon
-- E-commerce Storefront - coming soon
+
 
 ## Work experience
 Built the frontend of a live social media platform ([rueblur.com](https://rueblur.com)) and a public e-commerce website ([blue9.shop](https://blue9.shop)) as a React / Full Stack Developer at XpertLab Technologies.
